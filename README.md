@@ -15,9 +15,9 @@ have to either download the notebook to read it or to open it on the
 The notebook links below open each of them in the Jupyter Notebook
 Viewer.
 
-|Year|Author|Jupyter Notebook Viewer Link|
-|:-:|:-:|:-:|
-|1936|R. A. Fisher|[Fisher_1936.ipynb]|
+|Year|Author|Title|Jupyter Notebook Viewer Link|
+|:-:|:-:|:-|:-:|
+|1936|R. A. Fisher|The use of multiple measurements in taxonomic problems|[Fisher_1936.ipynb]|
 
 [Fisher_1936.ipynb]:
   http://nbviewer.jupyter.org/github/danilobellini/scientific-literature/blob/master/1936-Fisher/Fisher_1936.ipynb
